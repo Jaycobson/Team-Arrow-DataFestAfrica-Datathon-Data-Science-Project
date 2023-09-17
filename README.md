@@ -46,6 +46,8 @@ This notebook is dedicated to building and evaluating machine learning models fo
 * Scaling and normalization: Standardizing numerical features to facilitate model convergence.
 
 ### Dataset Content
+link to data - https://drive.google.com/file/d/13rs90eweXrRSDjN1EgUHokIt9dDlhPvo/view?usp=drive_link 
+
 The dataset encompasses a wide range of features, including but not limited to:
 
 * Transaction Data: Transaction ID, User ID, Transaction Amount, Transaction Date and Time, Merchant ID, Payment Method, Country Code, and Transaction Type.
