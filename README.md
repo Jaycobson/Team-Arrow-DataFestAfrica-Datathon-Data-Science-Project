@@ -7,7 +7,7 @@ The Fraud Detection dataset serves as a vital asset for the business, offering v
 
 ### Project Notebooks
 
-This GitHub repository houses the code and documentation for the "Fraud Detection for Online Payment Platform" project. Below, you'll find a summary of the key notebooks and their contents:
+This GitHub repository houses the code and documentation for the project. Below, you'll find a summary of the key notebooks and their contents:
 
 ### 1. Exploratory Data Analysis (EDA) Notebook
 
